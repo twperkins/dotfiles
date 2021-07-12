@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = twperkins.work@gmail.com
+	name = Tom Perkins
